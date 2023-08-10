@@ -1,1 +1,2 @@
-let name = "Luis Santiago Beltran"
+let name = "Luis Santiago"
+let lastName = "Beltran Jimenez"
